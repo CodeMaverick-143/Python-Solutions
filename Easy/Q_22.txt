@@ -1,0 +1,37 @@
+In the country of Timeland, the people follow a unique system of classifying days based on two variables: the temperature and humidity. Determine the kind of day, based on the following criteria:
+
+1) If the temperature is above 35 degrees:
+  a) If the humidity is above 70%, classify the day as Tropical.
+  b) Else, classify the day as Desert.
+
+2) If the temperature is between 20 and 35  degrees (inclusive):
+  a) If the humidity is above 70%, classify the day as Rainy.
+  b) If the humidity is between 40% and 70% (inclusive), classify the day as Average.
+  c) Else, classify the day as Dry.
+
+3) If the temperature is below 20degrees:
+   a) If the humidity is above 70%, classify the day as Cold.
+   b) Else, classify the day as Winter
+Input
+The input consists of two space- separated integers: temperatureand humidity (in percentage).
+
+Constraints:
+-10 ≤ temperature ≤ 50
+10 ≤ humidity ≤ 100
+Output
+Determine the type of day ( "Tropical", "Desert", "Rainy", "Average", "Dry", "Cold", and "Winter") based on the temperature and humidity.
+Example
+Input:
+25 75
+
+Output:
+Rainy
+
+Explanation:
+Given the temperature as 25 and humidity as 75%:
+
+Since the temperature is between 20 and 35 degrees (inclusive), we move into the second major condition.
+Within this temperature bracket, we check the humidity:
+The humidity is above 70%.
+Therefore, according to our conditions, the day is classified as a "Rainy".
+Hence, the output is "Rainy".

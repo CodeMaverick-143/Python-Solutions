@@ -1,0 +1,20 @@
+Given an integer n, For each i (1<=i<=n) if i is even print "even" else print "odd".
+Input
+The first and the only line of the input represents an integer n.
+
+Constraints:
+1 ≤ n ≤ 100
+Output
+Print even or odd for each i, separated by white spaces.
+Example
+Sample Input:
+5
+
+Sample Output:
+odd even odd even odd
+
+Sample Input:
+2
+
+Sample Output:
+odd even

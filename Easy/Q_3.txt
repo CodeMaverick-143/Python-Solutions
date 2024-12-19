@@ -1,0 +1,27 @@
+Given a year(an integer variable) as input, find if it is a leap year or not. Note: Leap year is the year that is multiple of 4. But, if the year is a multiple of 100 and not a multiple of 400, then it is not a leap year.
+Input
+User Task:
+Complete the function LeapYear() that takes integer n as a parameter.
+
+Constraint:
+1 <= n <= 5000
+Output
+If it is a leap year then print YES and if it is not a leap year, then print NO
+Example
+Sample Input:
+2000
+
+Sample Output:
+YES
+
+Sample Input:
+2003
+
+Sample Output:
+NO
+
+Sample Input:
+1900
+
+Sample Output:
+NO

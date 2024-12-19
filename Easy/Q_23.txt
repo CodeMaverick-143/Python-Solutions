@@ -1,0 +1,21 @@
+
+Write a program in any programming language that takes the number of units consumed as input from the user and calculates the electricity bill based on the following conditions:
+
+The first 100 units are free of cost.
+
+The next 100 units are charged at a rate of Rs 5 per unit
+
+Any additional units beyond the first 200 are charged at a rate of Rs 10 per unit.
+
+
+To accomplish this, you can write a function that takes the units consumed as an argument from the user, applies the above conditions to calculate the bill, and then returns the final amount to be paid by the user.
+Input
+In the first line, enter the number. of units consumed
+Output
+Print the final amount.
+Example
+Sample Input:
+1000
+
+Sample Output:
+8500

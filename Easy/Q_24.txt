@@ -1,0 +1,14 @@
+Write a programme to check wether the given angles form a Triangle or not ?
+Input
+The first line of the input contains three space separated Integers A, B and C.
+
+Constraints
+0 ≤ A, B, C ≤ 180
+Output
+Print "YES" if the given angles form a Triangle otherwise Print "NO".
+Example
+Sample Input
+1 1 178
+
+Sample Output
+YES

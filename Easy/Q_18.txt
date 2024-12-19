@@ -1,0 +1,20 @@
+Given three distinct numbers a, b and c which denotes the age of three people 1, 2, 3.
+Output the youngest and oldest person among three.
+Input
+Three integers are given as input. a, b, and c denotes the age of person 1, 2, 3 respectively.
+
+Constraints
+1 ≤ a ≤ 105
+1 ≤ b ≤ 105
+1 ≤ c ≤ 105
+Output
+Print the youngest and the oldest person number respectivley.
+Example
+Sample Input:
+12 11 7
+
+Sample Output:
+3 1
+
+Explanation:
+7 is the least among all three so 3 has the least age and similarly, 12 is the maximum among three so 1 is the oldest.

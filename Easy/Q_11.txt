@@ -1,0 +1,23 @@
+Given a series and a number N, your task is to print the Nth number of the given series.
+
+Series:- 24, 37, 50, 63, 76,. .. .
+Input
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the function NthNumber() that takes integer N as argument.
+
+Constraints:-
+1 <= N <= 10000
+Output
+Return the Nth number.
+Example
+Sample Input:-
+1
+
+Sample Output:-
+24
+
+Sample Input:-
+3
+
+Sample Output:-
+50

@@ -1,0 +1,20 @@
+Given length l, width b and height h of a cuboid. The task is to find the total surface area and volume of cuboid.
+Input
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the functions:-
+Surface_Area() that takes the integer l, b and h as parameter.
+Volume() that takes the integer l, b and h as parameter.
+
+Constraints:
+1 <= l, b, h <= 10^2
+Output
+Return the surface area of cuboid in function Surface_Area() and return Volume of cuboid in function Volume().
+Example
+Sample Input:
+1 2 3
+
+Sample Output:
+22 6
+
+Explanation:
+Test Case 1: The total surface area for the given cuboid is 22 and its volume 6.

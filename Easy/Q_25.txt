@@ -1,0 +1,14 @@
+You have two currency notes with you with values X and Y respectively. You want to buy an item with cost Z. FInd if you can buy the item or not.
+Input
+The first line of the input contains X, Y and Z.
+
+Constraints:
+1 <= X, Y, Z <= 109
+Output
+Print "YES", if you can buy the item, else, print "NO".
+Example
+Sample Input:
+10 5 12
+
+Sample Output:
+YES
