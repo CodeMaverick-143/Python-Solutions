@@ -1,2 +1,3 @@
 # Python-Solutions
 Here you get question for begginners in python in Easy,Medium,Hard level.........
+This are good problems that help me for constructing my fundamentals strong
