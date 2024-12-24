@@ -1,0 +1,30 @@
+Chef is very hungry. So, Chef goes to a shop selling burgers. The shop has 2 types of burgers:
+Normal burgers, which cost X rupees each
+Premium burgers, which cost Y rupees each (where Y > X)
+Chef has R rupees. Chef wants to buy exactly N burgers. He also wants to maximize the number of premium burgers he buys. Determine the number of burgers of both types Chef must buy.
+Output -1 if it is not possible for Chef to buy N burgers.
+Input
+The first line contains a single integer T — the number of test cases. Then the test cases follow.
+The first and only line of each test case contains four space- separated integers X, Y, N and R — the cost of a normal burger, the cost of a premium burger, the number of burgers Chef wants to buy and the amount of money Chef has.
+
+Constraints
+1 ≤ T ≤ 104
+1≤ X < Y ≤ 1000
+1≤ N ≤ 106
+1≤ R ≤ 109
+Output
+For each test case, output on a new line two integers: the number of normal burgers and the number of premium burgers Chef must buy satisfying the given conditions.
+Output -1 if he cannot buy N burgers.
+Example
+Sample Input
+4
+2 10 4 12
+4 8 10 50
+99 100 5 10
+9 10 10 200
+
+Sample Output
+4 0
+8 2
+-1
+0 10
