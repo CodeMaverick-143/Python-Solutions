@@ -6,21 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 9 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (8)
 - [math](#math) (1)
 - [shortest paths](#shortest-paths) (1)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 
 ### constructive algorithms
 
@@ -54,6 +62,9 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/344/A%20-%20Magnets/solution.py) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.py) |
+| 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.py) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
 
 ### math
@@ -67,6 +78,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 
 ---
 
