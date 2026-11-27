@@ -1,0 +1,28 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	if _, err := fmt.Scan(&t); err != nil {
+		return
+	}
+ 
+	for ; t > 0; t-- {
+		var a, b, c, d int
+		fmt.Scan(&a, &b, &c, &d)
+ 
+		ahead := 0
+		if b > a {
+			ahead++
+		}
+		if c > a {
+			ahead++
+		}
+		if d > a {
+			ahead++
+		}
+ 
+		fmt.Println(ahead)
+	}
+}
