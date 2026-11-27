@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 9 |
+| 10 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (1)
 - [shortest paths](#shortest-paths) (1)
 - [strings](#strings) (1)
@@ -64,6 +64,7 @@
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/344/A%20-%20Magnets/solution.py) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.py) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.py) |
+| 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Go](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1692/A%20-%20Marathon/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
 
