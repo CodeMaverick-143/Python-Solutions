@@ -1,0 +1,14 @@
+t = int(input())
+ 
+for _ in range(t):
+    n = int(input())
+ 
+    if n > 0 and n <= 9:
+        print(n)
+    else:
+        total = 9
+        step = 10
+        while step <= n:
+            total += min(9, n // step)
+            step *= 10
+        print(total)
