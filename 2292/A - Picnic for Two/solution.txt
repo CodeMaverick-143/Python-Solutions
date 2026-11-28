@@ -1,0 +1,16 @@
+t = int(input())
+ 
+for _ in range(t):
+    l, a, b = map(int, input().split())
+ 
+    a_ans = set()
+    b_ans = set()
+ 
+    for i in range(l):
+        x = (i * a) % l
+        y = (i * b) % l
+ 
+        a_ans.add(x)
+        b_ans.add(y)
+ 
+    print(len(a_ans & b_ans))
