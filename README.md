@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 10 |
+| 15 | 11 |
 
 ---
 
@@ -17,10 +17,11 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (11)
 - [math](#math) (2)
 - [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
@@ -64,6 +65,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
+| 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.txt) |
 
 ### implementation
 
@@ -93,6 +95,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.txt) |
 
 ### strings
 
