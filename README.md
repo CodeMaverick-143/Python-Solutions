@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (2)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (1)
@@ -36,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.txt) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.txt) |
 
 ### constructive algorithms
@@ -43,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
+| 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.txt) |
 
 ### dp
 
