@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 9 |
+| 11 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
@@ -24,11 +25,18 @@
 
 ---
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.txt) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.txt) |
 
 ### constructive algorithms
 
