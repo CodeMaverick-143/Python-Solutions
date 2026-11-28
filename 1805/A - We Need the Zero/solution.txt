@@ -1,0 +1,17 @@
+t = int(input())
+ 
+for _ in range(t):
+    n = int(input())
+    a = list(map(int, input().split()))
+ 
+    xor = 0
+ 
+    for num in a:
+        xor ^= num
+ 
+    if n % 2 == 1:
+        print(xor)
+    elif xor == 0:
+        print(3)
+    else:
+        print(-1)
