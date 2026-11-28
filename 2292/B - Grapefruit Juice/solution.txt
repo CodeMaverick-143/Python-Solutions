@@ -1,0 +1,19 @@
+t = int(input())
+for _ in range(t):
+    n, k, p = map(int, input().split())
+    a = list(map(int, input().split()))
+    a.sort()
+ 
+    total = sum(a)
+    pref = [0] * (n + 1)
+    for i in range(n):
+        pref[i + 1] = pref[i] + a[i]
+ 
+    ans = total
+    for m in range(1, n // k + 1):
+        juice_points = m * p
+        fresh_points = total - pref[m * k]
+        if juice_points + fresh_points > ans:
+            ans = juice_points + fresh_points
+ 
+    print(ans)
