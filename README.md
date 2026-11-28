@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 10 |
+| 14 | 10 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (10)
-- [math](#math) (1)
+- [implementation](#implementation) (11)
+- [math](#math) (2)
 - [shortest paths](#shortest-paths) (1)
 - [strings](#strings) (1)
 
@@ -79,12 +79,14 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.txt) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.txt) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.txt) |
 
 ### shortest paths
 
