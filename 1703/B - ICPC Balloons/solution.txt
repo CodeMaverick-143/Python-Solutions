@@ -1,0 +1,18 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    s = input()
+ 
+ 
+    lst = list(s)
+    ans = []
+    count = 0
+ 
+    for i in range(n):
+        if lst[i] not in ans:
+            count += 2
+            ans.append(lst[i])
+        else:
+            count += 1
+ 
+    print(count)
