@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 11 |
+| 16 | 12 |
 
 ---
 
@@ -15,10 +15,11 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -47,6 +48,12 @@
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.txt) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.txt) |
 
 ### dp
 
@@ -79,6 +86,7 @@
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.py) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Go](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1692/A%20-%20Marathon/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.txt) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.txt) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
 | 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [PyPy 3-64](https://github.com/CodeMaverick-143/Python-Solutions/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.txt) |
